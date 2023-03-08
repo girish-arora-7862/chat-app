@@ -1,0 +1,34 @@
+.room-title {
+  width: 100%;
+  padding: 32px;
+  text-align: center;
+}
+
+.chats-wrapper {
+  margin: 32px 0;
+}
+
+.room-wrapper {
+  margin: 0 16px;
+}
+
+.form-control.field-custom {
+  display: inline-block;
+  width: inherit;
+  width: 85%;
+}
+
+.form-control.field-custom:focus {
+  box-shadow: none;
+}
+
+.btn-custom-room {
+  width: 15%;
+  margin: 0 16px;
+}
+
+.msg-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
